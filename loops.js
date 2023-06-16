@@ -6,13 +6,9 @@ function saludarEstudiantes(estudiante) {
 for(var i=0; i < estudiantes.length; i++){
     saludarEstudiantes(estudiantes[i]);
 }
-
-
-
-
 // var numbers = [5, 4, 3, 2, 1]
 
-// // ❌ No cambia el array original
+// //  No cambia el array original
 // for (var number of numbers) {
 //   number = number * 2
 // }
